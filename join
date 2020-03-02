@@ -1,0 +1,7 @@
+# join function
+myTuple = ("Adam", "Jane", "David")
+
+x = "#".join(myTuple)
+
+print(x)
+
